@@ -1,5 +1,5 @@
 class Solution {
-    public int[] intersect(int[] nums1, int[] nums2) {
+    public void intersect(int[] nums1, int[] nums2) {
         int i = 0, j = 0; 
         int m= nums1.length;
         int n  = nums2.length;
